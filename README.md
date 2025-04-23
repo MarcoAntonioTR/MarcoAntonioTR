@@ -8,13 +8,14 @@
   <img src="https://img.shields.io/badge/📂 Total%20Repositories-2-blue?style=for-the-badge&color=ffcc00" alt="Total Repositories" />
 
   <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/MarcoAntonioTR?label=⭐ Total%20Stars&style=for-the-badge&color=0099ff" alt="Total Stars" />
- 
-  <!-- Profile Views -->
-  <img src="https://visitcount.itsvg.in/api?id=MarcoAntonioTR&label=Profile%20Views&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/github/stars/MarcoAntonioTR?label=Total%20Stars&style=for-the-badge&color=0099ff" alt="Total Stars" />
 
- <!-- GitHub Followers -->
-  <img src="https://img.shields.io/github/followers/MarcoAntonioTR?label=👥 Followers&style=for-the-badge&color=0099ff" alt="Followers" />
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=MarcoAntonioTR&label=Profile%20Views&color=0099ff&style=for-the-badge" alt="Profile Views" />
+
+
+<!-- GitHub Followers -->
+<img src="https://img.shields.io/github/followers/MarcoAntonioTR?label=Followers&style=for-the-badge&color=0099ff" alt="Followers" />
 
   <!-- Commits x Semana -->
   
